@@ -1,3 +1,18 @@
+Create a local database and develop a Python package to access its elements.
+
+structure 
+
+localdb -
+        - __init__.py
+        - core.py
+        - setup_db.py
+        - ream_me.md
+others -
+      - setup.py
+      - test.py
+      
+
+
 This is used to create and add table and 
 run queries or insert and read data
 
